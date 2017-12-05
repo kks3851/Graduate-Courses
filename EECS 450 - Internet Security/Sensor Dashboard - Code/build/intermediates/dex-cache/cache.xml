@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\riskopenapp\SensorDashboard-master\mobile\build\intermediates\exploded-aar\SensorDashboard-master\shared\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3d2b8ecdf46bc6649c697f009a51113b1b8148c0">
+        <dex dex="G:\riskopenapp\SensorDashboard-master\mobile\build\intermediates\pre-dexed\debug\classes-5fd92907afe5d34af11e1599cd2f11a6d1b7c7ea.jar" />
+    </item>
+    <item
+        jar="G:\riskopenapp\SensorDashboard-master\mobile\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="G:\riskopenapp\SensorDashboard-master\mobile\build\intermediates\pre-dexed\debug\classes-b87d16306f0867bebc809251c7a1664e4daef5cb.jar" />
+    </item>
+    <item
+        jar="C:\Users\ztt\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="G:\riskopenapp\SensorDashboard-master\mobile\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-14e42ba571ed702382fc6cf8e6b08df0b6114d89.jar" />
+    </item>
+    <item
+        jar="G:\riskopenapp\SensorDashboard-master\mobile\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="G:\riskopenapp\SensorDashboard-master\mobile\build\intermediates\pre-dexed\debug\classes-92f8e1187be33f7be827a229a55c92b9bef51ac4.jar" />
+    </item>
+    <item
+        jar="G:\riskopenapp\SensorDashboard-master\wear\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="G:\riskopenapp\SensorDashboard-master\wear\build\intermediates\pre-dexed\debug\classes-4a7d0d2e869247d66ef7cbdf7a4f71c1da0c64e8.jar" />
+    </item>
+    <item
+        jar="G:\riskopenapp\SensorDashboard-master\wear\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="G:\riskopenapp\SensorDashboard-master\wear\build\intermediates\pre-dexed\debug\classes-c9d47529e428ab837be0762698b7c0d5d021bd4f.jar" />
+    </item>
+    <item
+        jar="C:\Users\ztt\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="G:\riskopenapp\SensorDashboard-master\wear\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-fe6aab6137ff08b40e7ac953cef584aa53d53766.jar" />
+    </item>
+    <item
+        jar="G:\riskopenapp\SensorDashboard-master\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="G:\riskopenapp\SensorDashboard-master\mobile\build\intermediates\pre-dexed\debug\classes-4633227bb8c784ef4ea886aca3e919febd560b21.jar" />
+    </item>
+    <item
+        jar="G:\riskopenapp\SensorDashboard-master\wear\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="G:\riskopenapp\SensorDashboard-master\wear\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-4983734dc323ff07ad9fe73ca9b62ae1f8b9f54d.jar" />
+    </item>
+    <item
+        jar="G:\riskopenapp\SensorDashboard-master\wear\build\intermediates\exploded-aar\SensorDashboard-master\shared\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3d2b8ecdf46bc6649c697f009a51113b1b8148c0">
+        <dex dex="G:\riskopenapp\SensorDashboard-master\wear\build\intermediates\pre-dexed\debug\classes-809b4889d8f5a41bef5268ada49abe2eec3a56f4.jar" />
+    </item>
+    <item
+        jar="G:\riskopenapp\SensorDashboard-master\mobile\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="G:\riskopenapp\SensorDashboard-master\mobile\build\intermediates\pre-dexed\debug\classes-71862839977dd7881aee6bf9f1d9397bf912d25e.jar" />
+    </item>
+    <item
+        jar="G:\riskopenapp\SensorDashboard-master\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="G:\riskopenapp\SensorDashboard-master\mobile\build\intermediates\pre-dexed\debug\classes-e9e150cc4bf13e1e2cfdc3b733db4fc91bc07d2a.jar" />
+    </item>
+    <item
+        jar="G:\riskopenapp\SensorDashboard-master\mobile\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="G:\riskopenapp\SensorDashboard-master\mobile\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-9c8e09fba0408c1e585c1cba3961050c1d5349a5.jar" />
+    </item>
+    <item
+        jar="G:\riskopenapp\SensorDashboard-master\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="G:\riskopenapp\SensorDashboard-master\mobile\build\intermediates\pre-dexed\debug\classes-ce11c67f2c3472c1f8146d9b9e3a4fa376c2fee0.jar" />
+    </item>
+    <item
+        jar="G:\riskopenapp\SensorDashboard-master\wear\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="G:\riskopenapp\SensorDashboard-master\wear\build\intermediates\pre-dexed\debug\classes-ef2d1822e95f2e372de8ffdafdf7950382d17946.jar" />
+    </item>
+    <item
+        jar="G:\riskopenapp\SensorDashboard-master\wear\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="G:\riskopenapp\SensorDashboard-master\wear\build\intermediates\pre-dexed\debug\classes-6f3c9157fd1106c14820f4c10069e56cc06a21c8.jar" />
+    </item>
+    <item
+        jar="G:\riskopenapp\SensorDashboard-master\mobile\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="G:\riskopenapp\SensorDashboard-master\mobile\build\intermediates\pre-dexed\debug\classes-01108143136f735aa7f4e14be264ca9804c1b8cb.jar" />
+    </item>
+    <item
+        jar="C:\Users\ztt\.gradle\caches\modules-2\files-2.1\com.squareup\otto\1.3.6\ee373b6d0d6ea36a0a9b0cbabaf16be7e7fc3e30\otto-1.3.6.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ee373b6d0d6ea36a0a9b0cbabaf16be7e7fc3e30">
+        <dex dex="G:\riskopenapp\SensorDashboard-master\mobile\build\intermediates\pre-dexed\debug\otto-1.3.6-8cd8a04eeb909d66459c43bedd77acea44ead1e7.jar" />
+    </item>
+    <item
+        jar="C:\Users\ztt\.gradle\caches\modules-2\files-2.1\io.realm\realm-android\0.80.3\7979d05ba7b919c53766bf98e31aaf0e9feb0590\realm-android-0.80.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7979d05ba7b919c53766bf98e31aaf0e9feb0590">
+        <dex dex="G:\riskopenapp\SensorDashboard-master\mobile\build\intermediates\pre-dexed\debug\realm-android-0.80.3-2f71b2da0920e9a4e3415580621195120a5a8b63.jar" />
+    </item>
+    <item
+        jar="G:\riskopenapp\SensorDashboard-master\wear\build\intermediates\exploded-aar\com.google.android.support\wearable\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="27f19641b81b1078e653d2f0e5d1ed44d158a785">
+        <dex dex="G:\riskopenapp\SensorDashboard-master\wear\build\intermediates\pre-dexed\debug\classes-d50e98863cbd6be1ba15738b4cfc736b10265ee6.jar" />
+    </item>
+    <item
+        jar="G:\riskopenapp\SensorDashboard-master\mobile\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="G:\riskopenapp\SensorDashboard-master\mobile\build\intermediates\pre-dexed\debug\classes-9dc620a7111febd4cae57434074518cb86badd98.jar" />
+    </item>
+
+</items>
